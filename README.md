@@ -1,0 +1,2 @@
+# naviqes
+GitHub Pages
